@@ -1,11 +1,12 @@
 #write your code here
 
 def countdown(num)
- while num > 0
+  while num > 0
   #puts num.to_s +'second(s)!'
-  puts "#{num} seconds"
+   puts "#{num} second(s)!"
   # num = num -1
-  num -= 1
-  end
-'HAPPY NEW YEAR!'
- end
+   num -= 1
+   end
+  'HAPPY NEW YEAR!'
+
+end
